@@ -122,4 +122,4 @@ async def multiply(ctx: commands.Context, number: int, maybe: bool):
     await ctx.send(number * 5)
 
 
-bot.run('MTE3ODI3NDA2NTc4MjQxOTQ2Ng.GA_2ml.V8L-q79QJkQGcjnez-UWjsIyNUAv8Fwg41f1-8')
+bot.run('TOKEN')
