@@ -19,4 +19,4 @@ async def hello(ctx):
         picture = discord.File(f)
     await ctx.send(file=picture)
 
-bot.run("MTE3ODI3NDA2NTc4MjQxOTQ2Ng.GJogk6.xFJubGiyG2ewfaiqx1zF8witAUAFk1NDBSm4Uo")
+bot.run("TOKEN")
